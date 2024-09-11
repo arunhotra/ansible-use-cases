@@ -11,5 +11,5 @@
       bigip_device_info:
         provider: "{{provider}}"
         gather_subset:
-          - "{{data_entity}}"
+          - "all"
 
